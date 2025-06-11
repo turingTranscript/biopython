@@ -27,14 +27,14 @@ By the end of this course, you will be able to:
 
 ### Course Information
 
-**Instructor**: Balan Ramesh
-**TAs**: Tanvi Belalekar and another scholar.
-**Semester**: Fall 2025
-**Credits**: 2
-**Schedule**: Tuesday - 1.30-4.30
-**Location**: IT - 1
-**Contact**: balan.ramesh@mahindrauniversity.edu.in
-**Office Hours**: Wed 2.30-3.30
+**Instructor**: Balan Ramesh  
+**TAs**: Tanvi Belalekar and another scholar.  
+**Semester**: Fall 2025  
+**Credits**: 2  
+**Schedule**: Tuesday - 1.30-4.30  
+**Location**: IT - 1  
+**Contact**: balan.ramesh[at]mahindrauniversity.edu.in  
+**Office Hours**: Wed 2.30-3.30  
 
 ### Course Materials
 
