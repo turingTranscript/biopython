@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Python and Biopython
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,32 +8,38 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# BT2113
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+### Introduction
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+Welcome to the official course site for **Python and Biopython**. I hope to make this a hands-on, problem-solving course designed specifically for undergraduate biotechnology students. This course introduces you to the world of **computational biology**, using **Python** as a gateway to analyze biological data, automate tasks, and explore the vast landscape of genomic research.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+### Course Objectives
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+By the end of this course, you will be able to:
 
-## Getting Started
+- Understand Python fundamentals relevant to bioinformatics
+- Work with biological sequences using the Biopython library
+- Parse and manipulate FASTA, GenBank, and GFF files
+- Perform sequence analysis (e.g., translation, transcription, motif search)
+- Fetch data from online biological databases (e.g., NCBI, UniProt)
+- Build scripts and mini-projects to solve real-world biological problems
 
-Getting started with Just the Class is simple.
+### Course Information
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+**Instructor**: Balan Ramesh
+**TAs**: Tanvi Belalekar and another scholar.
+**Semester**: Fall 2025
+**Credits**: 2
+**Schedule**: Tuesday - 1.30-4.30
+**Location**: IT - 1
+**Contact**: balan.ramesh@mahindrauniversity.edu.in
+**Office Hours**: Wed 2.30-3.30
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+### Course Materials
 
-### Local development environment
+All materials will be posted here under the [Schedule](#) section.
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+### Ready to Begin?
+
+Head over to the [Schedule](#), check out the [Getting Started Guide](#), and start your journey into secrets in the (DNA) sequence today!
