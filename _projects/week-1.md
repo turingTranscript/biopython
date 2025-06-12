@@ -1,5 +1,5 @@
 ---
-title: Week 1 Announcement
+title: Week 1 Project
 week: 1
 date: 2019-04-08
 ---
