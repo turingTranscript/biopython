@@ -23,8 +23,8 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.1
-# color_scheme: my-color
-color_scheme: mahindra-light
+color_scheme: my-color
+# color_scheme: mahindra-light
 # dark_color_scheme: mahindra-dark
 # enable_dark_mode: true
 search_enabled: true
@@ -42,7 +42,7 @@ collections:
   staffers:
   modules:
   schedules:
-  annoucements:
+  projects:
 # Default layouts for each collection type
 defaults:
   - scope:

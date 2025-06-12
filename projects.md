@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Announcements
+title: Projects
 description: A feed containing all of the class projects.
 ---
 
-# Announcements
+# Projects
 
-{% assign announcements = site.announcements | reverse %}
-{% for annoucement in announcements %}
-{{ annoucement }}
+{% assign projects = site.projects | reverse %}
+{% for project in projects %}
+{{ project }}
 {% endfor %}
