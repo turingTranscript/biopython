@@ -25,8 +25,8 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 # color_scheme: my-color
 color_scheme: mahindra-light
-dark_color_scheme: mahindra-dark
-enable_dark_mode: true
+# dark_color_scheme: mahindra-dark
+# enable_dark_mode: true
 search_enabled: true
 heading_anchors: true
 permalink: pretty
@@ -68,22 +68,6 @@ defaults:
       type: announcements
     values:
       layout: announcement
-
-callouts:
-  highlight:
-    color: yellow
-  important:
-    title: Important
-    color: blue
-  new:
-    title: New
-    color: green
-  note:
-    title: Note
-    color: purple
-  warning:
-    title: Warning
-    color: red
 
 compress_html:
   clippings: all
