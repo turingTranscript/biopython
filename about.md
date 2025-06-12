@@ -22,7 +22,7 @@ In the age of vast biological data, programming skills are indispensable for any
 
 ### Who is This Course For?
 
-This course is designed for **2nd Year Undergraduate Biotechnology Students** with little to no prior programming experience. If you're a biologist eager to unlock the power of computation, this course is for you\!
+This course is designed for 2nd Year Undergraduate Biotechnology Students with little to no prior programming experience. If you're a biologist eager to unlock the power of computation, this course is for you\!
 
 ### What Will You Learn?
 

@@ -12,7 +12,7 @@ seo:
 
 ### Introduction
 
-Welcome to the official course site for **Python and Biopython**. I hope to make this a hands-on, problem-solving course designed specifically for undergraduate biotechnology students. This course introduces you to the world of **computational biology**, using **Python** as a gateway to analyze biological data, automate tasks, and explore the vast landscape of genomic research.
+Welcome to the official course site for Python and Biopython. I hope to make this a hands-on, problem-solving course designed specifically for undergraduate biotechnology students. This course introduces you to the world of computational biology, using Python as a gateway to analyze biological data, automate tasks, and explore the vast landscape of genomic research.
 
 ### Course Objectives
 
