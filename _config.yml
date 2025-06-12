@@ -42,7 +42,7 @@ collections:
   staffers:
   modules:
   schedules:
-  projects:
+  annoucements:
 # Default layouts for each collection type
 defaults:
   - scope:
